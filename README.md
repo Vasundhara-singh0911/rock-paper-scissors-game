@@ -15,9 +15,6 @@ A simple, fun, and interactive **Rock-Paper-Scissors Game** built using **HTML**
 
 ---
 
-
----
-
 ## 🚀 How to Play
 
 1. Click on Rock, Paper, or Scissors.
